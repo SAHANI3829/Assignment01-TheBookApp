@@ -2,7 +2,7 @@
 
 *Name:* S. P. Rajapaksha  
 *Student ID:* FGS/MSC/Cs/2025/005 
-*Demo video link:* [Add a publicly accessible video link]
+*Demo video link:* https://drive.google.com/file/d/1XS62F6-aqPS-Xgr-Ou9RnkI5UbAxy-YT/view?usp=drivesdk
 
 ## About
 
